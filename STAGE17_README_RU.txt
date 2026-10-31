@@ -1,0 +1,1 @@
+Stage 17: AK47 damage 18, hit confirmation, name+HP labels, local rigid-body loot physics. Multiplayer loot physics is client-side visual only; server pickup still uses original item records. Untested in Godot/Android.

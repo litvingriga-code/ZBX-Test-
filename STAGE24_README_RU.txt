@@ -1,0 +1,1 @@
+Stage 24: Fixed dropped items falling through the floor. Added StaticBody3D with BoxShape3D to match the visible ground; enabled continuous collision detection for dropped RigidBody3D; raised drop spawn position to avoid starting inside the floor. Note: dropped-item physics is still local, not network authoritative. Godot/Android runtime not tested.

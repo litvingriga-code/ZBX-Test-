@@ -1,0 +1,1 @@
+Stage 16: Drag-and-drop in battle inventory (touch and mouse); Health bar and standing/crouching indicator. Mobile touch drag shows a floating item preview. Tap only selects for Use/Drop. Godot runtime/Android not tested.
